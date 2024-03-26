@@ -1,4 +1,4 @@
-package com.stl.thread.part01;
+package com.stl.thread.basics;
 
 public class ThreadDemo {
     public static void main(String[] args) {
